@@ -1,0 +1,13 @@
+/build
+/out
+/bin
+
+/*.iml
+/*.log
+/*.sh
+/*.jpg
+/.settings
+/.classpath
+/.project
+/.idea
+/.ipynb_checkpoints
